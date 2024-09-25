@@ -3,7 +3,7 @@
 
 
 # uml
-![Diagram Tanpa Judul drawio](https://github.com/user-attachments/assets/eab121ee-a804-4c0e-8be3-cd618d32e050)
+![Diagram Tanpa Judul drawio (1)](https://github.com/user-attachments/assets/e2b60c92-54cc-415b-b0d0-10214d88eeee)
 
 
 
